@@ -6,3 +6,5 @@ Hint to add authorization field in request head
 b. node cookie_auth.js 
 Hint to show cookie 
 ![alt text](image-2.png)
+Show cookie in mongoDB 
+![alt text](image-3.png)
